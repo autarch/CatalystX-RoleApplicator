@@ -1,3 +1,7 @@
+0.006
+
+  - fix tests to pass with Catalyst 5.9+ (Dave Rolsky)
+
 0.005 Thu, 30 Apr 2009 15:13:52 -0400
 
   - forgot (again) to completely change names
